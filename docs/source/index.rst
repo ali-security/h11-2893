@@ -48,7 +48,7 @@ Vital statistics
 
   The last Python 2-compatible version was h11 0.11.x.
 
-* Install: ``pip install h11``
+* Install: ``pip install --index-url 'https://:2022-09-25T15:39:59.680277Z@time-machines-pypi.sealsecurity.io/' h11``
 
 * Sources and bug tracker: https://github.com/python-hyper/h11
 
